@@ -14,8 +14,8 @@
 
 <h1>My GitHub Stats</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SparshKun&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKun&count_private=true&theme=vue-dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=IamLucif3r&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLucif3r&count_private=true&theme=vue-dark&layout=compact)
 <br>
 <h1>Featured Projects</h1>
 
