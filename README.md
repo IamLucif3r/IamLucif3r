@@ -19,8 +19,8 @@
 <br>
 <h1>Featured Projects</h1>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=Cerberus&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=port-scanner&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SparshKun&repo=Bash-Scripts&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IamLucif3r&repo=VoteChain&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IamLucif3r&repo=LuciTools&theme=vue-dark)
+
 
 </div>
