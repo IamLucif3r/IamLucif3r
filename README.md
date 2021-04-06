@@ -29,8 +29,8 @@
 - 😄 AKA: IamLucif3r / Lucif3r
 
 [![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/iamlucif3r_?style=social)](https://twitter.com/IamLucif3r_)
-[![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsinghyadav/)](https://www.linkedin.com/in/anmolsinghyadav/)
-[![GitHub IamLucif3r](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/IamLucif3r)
+[![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-Anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsinghyadav/)](https://www.linkedin.com/in/anmolsinghyadav/)
+[![GitHub IamLucif3r](https://img.shields.io/github/followers/IamLucif3r?label=follow&style=social)](https://github.com/IamLucif3r)
 
 
 
