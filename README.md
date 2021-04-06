@@ -45,7 +45,7 @@
 
 </a>
 <a href="https://github.com/iamlucif3r">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=merko&line_height=25" alt="Anmol's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=cobalt&line_height=25" alt="Anmol's github stats"/>
 </a>
 <a href="https://github.com/iamlucif3r/VoteChain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamlucif3r&repo=VoteChain&theme=dark" />
