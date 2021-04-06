@@ -1,26 +1,63 @@
-<h1 align="center" height='30'>Hi there, I'm <a href="https://anmol-singh-yadav.github.io/" target="_blank">Anmol Singh Yadav</a> 
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200' ></h1> 
+## Hola, I'm [Anmol Singh Yadav!](https://anmol-singh-yadav.github.io/) 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IamLucif3r&label=Views&color=blue&style=plastic" alt="IamLucif3r" /> </p>
+
+<a href="https://twitter.com/IamLucif3r_">
+  <img align="left" alt="Anmol's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anmolsinghyadav/">
+  <img align="left" alt="Anmol's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/IamLucif3r">
+  <img align="left" alt="Anmol's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg">
+  <img align="left" alt="Anmol's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
+
+
+- 🔭 I’m currently working as Independent Security Researcher.
+- 🌱 I’m currently learning more about BlockChain, Pentesting & Exploit Development
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg).
+- 🤔 I’m looking for Bug Hunting Methodologies.
+- 💬 Ask me about Pentesting, Blockchain & Web & Android App Development.
+- 📫 How to reach me: [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg)
+- 😄 AKA: IamLucif3r / Lucif3r
+
+[![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/IamLucif3r_)
+[![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/anmolsinghyadav/)
+[![GitHub IamLucif3r](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/IamLucif3r)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://anmol-singh-yadav.github.io/)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>    
+
+<a href="https://github.com/iamlucif3r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucif3r&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iamlucif3r">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/iamlucif3r/VoteChain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamlucif3r&repo=VoteChain&theme=dark" />
+
+</a>
+
+
 <div align="center">
-  </div>
-  <div align="center">
-  <p>a.k.a <b>IamLucif3r</b>, Currently I am a Cyber Security & Digital Forensics Undergraduate Student. I am a Cyber Security Geek. My main field of intrest in cyber security is Penetration Testing, Reverse Engineering and Exploit Development. I also do Web & Android App Development & Blockchain Development</p>
-  
-  <p><b>Connect with me through:</b></p>
-  
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/0xSN1PE)](https://twitter.com/iamLucif3r_)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-anand-9842421b2/)](https://www.linkedin.com/in/anmolsinghyadav/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sparshanand752@gmail.com)](mailto:sanmol016@gmail.com)  
-<hr>
 
-<h1>My GitHub Stats</h1>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=IamLucif3r&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
-
-<br>
-<h1>Featured Projects</h1>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IamLucif3r&repo=VoteChain&theme=vue-dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IamLucif3r&repo=LuciTools&theme=vue-dark)
-
+### Show some ❤️ by starring some of the repositories!
 
 </div>
+
