@@ -31,7 +31,7 @@
 [![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/iamlucif3r_?style=social)](https://twitter.com/IamLucif3r_)
 [![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsinghyadav/)](https://www.linkedin.com/in/anmolsinghyadav/)
 [![GitHub IamLucif3r](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/IamLucif3r)
-[![website](https://img.shields.io/badge/PortfolioWebsite-anmol-singh-yadav.github.io-2648ff?style=flat-square&logo=google-chrome)](https://anmol-singh-yadav.github.io/)
+
 
 
 **Languages and Tools:**  
@@ -43,11 +43,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>    
 
-<a href="https://github.com/iamlucif3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucif3r&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iamlucif3r">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=dark&line_height=25" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/iamlucif3r/VoteChain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamlucif3r&repo=VoteChain&theme=dark" />
