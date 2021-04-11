@@ -42,7 +42,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>    
-<center>
+<div align="center">
 </a>
 <a href="https://github.com/iamlucif3r">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=radical&line_height=24" alt="Anmol's github stats"/>
@@ -50,7 +50,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IamLucif3r&theme=dark)](https://git.io/streak-stats)
 
-</center>
+</div>
 
 
 
