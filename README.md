@@ -27,6 +27,7 @@
 - 💬 Ask me about Pentesting, Blockchain & Web & Android App Development.
 - 📫 How to reach me: [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg)
 - 😄 AKA: IamLucif3r / Lucif3r
+- 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 
 [![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/iamlucif3r_?style=social)](https://twitter.com/IamLucif3r_)
 [![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-Anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsinghyadav/)](https://www.linkedin.com/in/anmolsinghyadav/)
