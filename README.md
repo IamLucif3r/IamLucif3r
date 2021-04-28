@@ -26,7 +26,7 @@
 - 🤔 I’m looking for Bug Hunting Methodologies.
 - 💬 Ask me about Pentesting, Blockchain & Web & Android App Development.
 - 📫 How to reach me: [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg)
-- 😄 AKA: IamLucif3r / Lucif3r
+- 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) / Lucif3r
 - 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 
 [![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/iamlucif3r_?style=social)](https://twitter.com/IamLucif3r_)
