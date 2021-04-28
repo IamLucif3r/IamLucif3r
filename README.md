@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg).
 - 🤔 I’m looking for Bug Hunting Methodologies.
 - 💬 Ask me about Pentesting, Blockchain & Web & Android App Development.
-- 📫 How to reach me: [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg)
+- 📫 How to reach me: [Email](mailto:sanmol016@gmail.com) [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg)
 - 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) / Lucif3r
 - 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 
