@@ -31,10 +31,13 @@
 - 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) / Lucif3r
 - 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<br/>
+<br/>
 
-[![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/iamlucif3r_?style=social)](https://twitter.com/IamLucif3r_)
-[![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-Anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsinghyadav/)](https://www.linkedin.com/in/anmolsinghyadav/)
+<h4 align="left">:satellite: Connect With Me :</h4>
+
+[![Twitter: IamLucif3r_](https://img.shields.io/twitter/follow/iamlucif3r_?style=social)](https://twitter.com/IamLucif3r_) <br/>
+[![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/-Anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmolsinghyadav/)](https://www.linkedin.com/in/anmolsinghyadav/)<br/>
 [![GitHub IamLucif3r](https://img.shields.io/github/followers/IamLucif3r?label=follow&style=social)](https://github.com/IamLucif3r)
 
 
