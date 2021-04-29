@@ -22,11 +22,11 @@
 <br/>
 
 
-- 🔭 I’m currently working as <b> Independent Security Researcher.
-- 🌱 I’m currently learning more about<b> BlockChain, Pentesting & Exploit Development
+- 🔭 I’m currently working as <b> Independent Security Researcher.</b>
+- 🌱 I’m currently learning more about<b> BlockChain, Pentesting & Exploit Development.</b>
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg).
-- 🤔 I’m looking for<b> Bug Hunting Methodologies.
-- 💬 Ask me about <b> Pentesting, Blockchain & Web & Android App Development.
+- 🤔 I’m looking for<b> Bug Hunting Methodologies.</b>
+- 💬 Ask me about <b> Pentesting, Blockchain & Web & Android App Development.</b>
 - 📫 How to reach me: [Email - sanmol016@gmail.com](mailto:sanmol016@gmail.com), [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg)
 - 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) / Lucif3r
 - 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
