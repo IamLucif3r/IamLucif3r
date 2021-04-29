@@ -31,8 +31,8 @@
 - 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) / Lucif3r
 - 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 
-<br/>
-<br/>
+
+
 
 <img align="right" alt="GIF" src="https://github.com/IamLucif3r/IamLucif3r/blob/main/code.gif?raw=true" width="420" height="300" />
 <h4 align="left">:satellite: Connect With Me :</h4>
