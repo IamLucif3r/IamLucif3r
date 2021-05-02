@@ -21,6 +21,7 @@
 <br/>
 <br/>
 
+#### :bulb: Summary 
 
 - 🔭 I’m currently working as <b> Independent Security Researcher.</b>
 - 🌱 I’m currently learning more about<b> BlockChain, Pentesting & Exploit Development.</b>
