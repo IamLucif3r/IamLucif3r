@@ -13,7 +13,7 @@
 <a href="https://open.spotify.com/playlist/5NFeQATKU4ujWYDBXUNi1W?si=593f90ea5b524b51">
   <img align="left" alt="Anmol's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCD4ne1HQI79TzUNt0knHylg">
+<a href="https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA">
   <img align="left" alt="Anmol's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
