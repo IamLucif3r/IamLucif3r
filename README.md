@@ -23,7 +23,7 @@
 
 #### :bulb: Summary 
 
-- 🔭 I’m currently working as <b> Independent Security Researcher.</b>
+- 🔭 I’m currently working as <b> Cyber Security Intern at Gurugram Police Summer Internship.</b>
 - 🌱 I’m currently learning more about<b> BlockChain, Pentesting & Exploit Development.</b>
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA).
 - 🤔 I’m looking for<b> Bug Hunting Methodologies.</b>
