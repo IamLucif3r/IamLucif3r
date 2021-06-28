@@ -41,6 +41,7 @@
 [![Twitter: IamLucif3r_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IamLucif3r_) <br/>
 [![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolsinghyadav/)<br/>
 [![GMAIL IamLucif3r](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanmol016@gmail.com) <br/>
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@IamLucif3r)<br/>
 [![Discord-Anmol](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fEtfhNrfkJ)
 
 
