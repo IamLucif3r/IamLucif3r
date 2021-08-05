@@ -23,13 +23,13 @@
 
 #### :bulb: About Me: 
 
-- 🔭 I’m currently working as <b> Independent Security Researcher.</b>
+- 🔭 I’m currently working as <b> Security Researcher.</b>
 - 🌱 I’m currently learning more about<b> BlockChain, Pentesting & Exploit Development.</b>
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA).
 - 🤔 I’m looking for<b> Bug Hunting Methodologies.</b>
 - 💬 Ask me about <b> Pentesting, Blockchain & Web & Android App Development.</b>
 - 📫 How to reach me: [Email - sanmol016@gmail.com](mailto:sanmol016@gmail.com), [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_) , [Youtube - @Hackingverse](https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA)
-- 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) / Lucif3r
+- 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) 
 - 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 
 
