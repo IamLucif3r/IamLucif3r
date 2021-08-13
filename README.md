@@ -1,6 +1,6 @@
 ## Hola, I'm [Anmol Singh Yadav!](https://anmol-singh-yadav.github.io/)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IamLucif3r&label=Visitors&color=blue&style=plastic" alt="IamLucif3r" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=IamLucif3r&label=Profile-Views&color=blue&style=plastic" alt="IamLucif3r" /> </p>
 <a href="https://twitter.com/IamLucif3r_">
   <img align="left" alt="Anmol Singh Yadav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
