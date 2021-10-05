@@ -64,7 +64,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=radical&line_height=24" alt="Anmol's github stats"/>
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IamLucif3r&theme=dark)](https://git.io/streak-stats)
+<p align = "center">
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=IamLucif3r&theme=chartreuse-dark&ring=DD2727&fire=FFFF00&currStreakNum=6695E6" align = "center">
+ </p>
 
 </div>
 
