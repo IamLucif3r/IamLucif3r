@@ -10,9 +10,7 @@
 <a href="https://discord.gg/fEtfhNrfkJ">
   <img align="left" alt="Anmol's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/5NFeQATKU4ujWYDBXUNi1W?si=593f90ea5b524b51">
-  <img align="left" alt="Anmol's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 <a href="https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA">
   <img align="left" alt="Anmol's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
@@ -23,7 +21,7 @@
 
 #### :bulb: About Me: 
 
-- 🔭 I’m currently working as <b> Security Researcher.</b>
+- 🔭 I’m currently working as <b> Independent Security Researcher.</b>
 - 🌱 I’m currently learning more about<b> Pentesting, Competitive Coding & Bug Hunting.</b>
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA).
 - 🤔 I’m looking for<b> Bug Hunting Methodologies.</b>
