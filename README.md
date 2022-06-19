@@ -1,78 +1,26 @@
-## Hola, I'm [Anmol Singh Yadav!](https://anmol-singh-yadav.github.io/)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IamLucif3r&label=Profile-Views&color=blue&style=plastic" alt="IamLucif3r" /> </p>
-<a href="https://twitter.com/IamLucif3r_">
-  <img align="left" alt="Anmol Singh Yadav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/anmolsinghyadav/">
-  <img align="left" alt="Anmol's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discord.gg/fEtfhNrfkJ">
-  <img align="left" alt="Anmol's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Anmol Singh Yadav</h1>
+<h3 align="center">A Cyber Security Researcher</h3>
 
-<a href="https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA">
-  <img align="left" alt="Anmol's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+<p align="left"> <a href="https://twitter.com/iamlucif3r_" target="blank"><img src="https://img.shields.io/twitter/follow/iamlucif3r_?logo=twitter&style=for-the-badge" alt="iamlucif3r_" /></a> </p>
 
+# 💫About Me : 
+- 🔭 I’m currently working a **an Independent Security Researcher.**
+- 👯 I’m currently learning more about **Pentesting, Competitive Coding & Bug Hunting.**
+- 👨‍💻 All of my projects are available at [anmol-singh-yadav.github.io](anmol-singh-yadav.github.io)
+- 📝 I regularly write articles on [https://medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
+- 💬 Ask me about **Pentesting, Blockchain & Web & Android App Development.**
+- 📫 How to reach me **sanmol016@gmail.com**
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1EpeDXyG45Wiptsm4u_j4nfDjUncW0f1m/view?usp=sharing)
 
-<br/>
-<br/>
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolsinghyadav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamlucif3r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamlucif3r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamlucif3r_) 
 
-#### :bulb: About Me: 
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 📊GitHub Stats : 
+![](https://github-readme-stats.vercel.app/api?username=IamLucif3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IamLucif3r&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamLucif3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working as <b> Independent Security Researcher.</b>
-- 🌱 I’m currently learning more about<b> Pentesting, Competitive Coding & Bug Hunting.</b>
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCF-umIAcNhX9cvVKUVU0TmA).
-- 🤔 I’m looking for<b> Bug Hunting Methodologies.</b>
-- 💬 Ask me about <b> Pentesting, Blockchain & Web & Android App Development.</b>
-- 📫 How to reach me: [Email - sanmol016@gmail.com](mailto:sanmol016@gmail.com), [Twitter - @IamLucif3r_](https://twitter.com/IamLucif3r_)
-- 😄 AKA: [IamLucif3r](https://www.google.com/search?q=iamlucif3r&oq=iamlucif3r+&aqs=chrome..69i57j35i39j0i13j69i60l5.3190j0j7&sourceid=chrome&ie=UTF-8) 
-- 📝 Read my Blogs : [Medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
-
-
-
-
-<img align="right" alt="GIF" src="https://github.com/IamLucif3r/IamLucif3r/blob/main/code.gif?raw=true" width="420" height="300" />
-<h4 align="left">:satellite: Connect With Me :</h4>
-
-[![Twitter: IamLucif3r_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IamLucif3r_) <br/>
-[![Linkedin: Anmol Singh Yadav](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmolsinghyadav/)<br/>
-[![GMAIL IamLucif3r](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanmol016@gmail.com) <br/>
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@IamLucif3r)<br/>
-[![Discord-Anmol](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fEtfhNrfkJ)
-
-
-<h4 align="left">:hammer_and_wrench: Technologies and Tools I use:</h4>
-<p align="left">
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="20"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>    
-<div align="center">
-</a>
-
----
-
-<br><br>
-<a href="https://github.com/iamlucif3r">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlucif3r&show_icons=true&theme=radical&line_height=24" alt="Anmol's github stats"/>
-</a>
-
-<p align = "center">
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=IamLucif3r&theme=chartreuse-dark&ring=DD2727&fire=FFFF00&currStreakNum=6695E6" align = "center">
- </p>
-
-</div>
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
