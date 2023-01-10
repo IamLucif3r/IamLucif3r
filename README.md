@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://twitter.com/iamlucif3r_" target="blank"><img src="https://img.shields.io/twitter/follow/iamlucif3r_?logo=twitter&style=for-the-badge" alt="iamlucif3r_" /></a> </p>
 
 # 💫About Me : 
-- 🔭 I’m currently working a **an Independent Security Researcher.**
-- 👯 I’m currently learning more about **Pentesting, Competitive Coding & Bug Hunting.**
+- 🔭 I’m currently working a **Site Reliability Engineer.**
+- 👯 I’m currently learning more about **Docker-Security, Pentesting & Bug Hunting.**
 - 👨‍💻 All of my projects are available at [anmol-singh-yadav.github.io](anmol-singh-yadav.github.io)
 - 📝 I regularly write articles on [https://medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
-- 💬 Ask me about **Pentesting, Blockchain & Web & Android App Development.**
+- 💬 Ask me about **Pentesting, Blockchain & Docker-Security.**
 - 📫 How to reach me **sanmol016@gmail.com**
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1EpeDXyG45Wiptsm4u_j4nfDjUncW0f1m/view?usp=sharing)
 
