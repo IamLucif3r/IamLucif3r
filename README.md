@@ -5,10 +5,9 @@
 
 # 💫About Me : 
 - 🔭 I’m currently working as a **Platform Security Engineer.**
-- 👯 I’m currently learning more about **Docker-Security, Pentesting & Bug Hunting.**
+- 👯 I’m know about **Docker Security, Kuberenetes Security, Apache Mesos, Bug Hunting, Development.**
 - 👨‍💻 All of my projects are available at [anmol-singh-yadav.github.io](anmol-singh-yadav.github.io)
 - 📝 I regularly write articles on [https://medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
-- 💬 Ask me about **Pentesting, Blockchain & Docker-Security.**
 - 📫 How to reach me **sanmol016@gmail.com**
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1EpeDXyG45Wiptsm4u_j4nfDjUncW0f1m/view?usp=sharing)
 
