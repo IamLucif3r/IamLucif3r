@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anmol Singh Yadav</h1>
-<h3 align="center">A Site Reliability Engineer & Cyber Security Researcher</h3>
+<h3 align="center">A Platform Security Engineer & Cyber Security Researcher</h3>
 
 <p align="left"> <a href="https://twitter.com/iamlucif3r_" target="blank"><img src="https://img.shields.io/twitter/follow/iamlucif3r_?logo=twitter&style=for-the-badge" alt="iamlucif3r_" /></a> </p>
 
 # 💫About Me : 
-- 🔭 I’m currently working as a **Site Reliability Engineer.**
+- 🔭 I’m currently working as a **Platform Security Engineer.**
 - 👯 I’m currently learning more about **Docker-Security, Pentesting & Bug Hunting.**
 - 👨‍💻 All of my projects are available at [anmol-singh-yadav.github.io](anmol-singh-yadav.github.io)
 - 📝 I regularly write articles on [https://medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
