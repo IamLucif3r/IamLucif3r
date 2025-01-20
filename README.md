@@ -5,11 +5,11 @@
 
 # 💫About Me : 
 - 🔭 I’m currently working as a **Platform Security Engineer.**
-- 👯 I know about **Docker Security, Kuberenetes Security, Apache Mesos, Bug Hunting, eBPF, Development Operations / SRE, Kafka & Development.**
+- 👯 I know about **Docker Security, Kubernetes Security, Penetration Testing, Linux Security, Golang, C, C++, Python, Bash, Apache Kafka, NiFi, Mesos, Marathon, eBPF, SQL, Influx, Redis, Microservice Architecture.**
 - 👨‍💻 All of my projects are available at [anmol-singh-yadav.github.io](anmol-singh-yadav.github.io)
 - 📝 I regularly write articles on [https://medium.com/@IamLucif3r](https://medium.com/@IamLucif3r)
 - 📫 How to reach me **sanmol016@gmail.com**
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1EpeDXyG45Wiptsm4u_j4nfDjUncW0f1m/view?usp=sharing)
+- 📄 Know more about my experiences here : [My Resume]([https://drive.google.com/file/d/1EpeDXyG45Wiptsm4u_j4nfDjUncW0f1m/view?usp=sharing](https://drive.google.com/file/d/1dj-VZPy8PkLdjX-_MqlK0DFvISv0aW0g/view?usp=sharing))
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolsinghyadav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamlucif3r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamlucif3r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamlucif3r_) 
